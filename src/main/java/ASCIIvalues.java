@@ -35,6 +35,7 @@ public class ASCIIvalues {
         int assciivalue = ch1;
         System.out.println(assciivalue);
         //System.out.println(assciivalue);
+
     }
 	
 	
